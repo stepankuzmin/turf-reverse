@@ -1,0 +1,26 @@
+{
+  "name": "turf-reverse",
+  "version": "1.0.0",
+  "description": "Revert coordinates order for LineString, Polygon, MultiLineString and MultiPolygon features",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stepankuzmin/turf-reverse.git"
+  },
+  "keywords": [
+    "turf",
+    "reverse"
+  ],
+  "author": "Stepan Kuzmin <to.stepan.kuzmin@gmail.com> (stepankuzmin.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stepankuzmin/turf-reverse/issues"
+  },
+  "homepage": "https://github.com/stepankuzmin/turf-reverse",
+  "devDependencies": {
+    "tape": "4.6.0"
+  }
+}
