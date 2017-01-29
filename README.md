@@ -1,6 +1,7 @@
 # turf-reverse
 
 [![build status](https://secure.travis-ci.org/stepankuzmin/turf-reverse.png)](http://travis-ci.org/stepankuzmin/turf-reverse)
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/turf-reverse.svg)](https://greenkeeper.io/)
 
 Revert coordinates order for `LineString`, `Polygon`, `MultiLineString` and `MultiPolygon` features.
 
