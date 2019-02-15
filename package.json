@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/stepankuzmin/turf-reverse",
   "devDependencies": {
-    "tape": "4.10.0"
+    "tape": "4.10.1"
   }
 }
